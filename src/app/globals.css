@@ -100,7 +100,16 @@ section {
 
 .not-found {
   padding: 0;
-  background: url('../../public/assets/img/not-found-bj.jpg');
+  
+  background-position: center;
+  background-size: cover;
+}
+.not-found-page {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  
   background-position: center;
   background-size: cover;
 }
