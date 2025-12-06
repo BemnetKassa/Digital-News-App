@@ -1,7 +1,9 @@
 //import icons
+// @ts-ignore: Cannot find module or type declarations for side-effect import of 'bootstrap-icons/font/bootstrap-icons.css'.
 import 'bootstrap-icons/font/bootstrap-icons.css' ;
 
 //import bootstap
+// @ts-ignore: Cannot find module or type declarations for side-effect import of 'bootstrap/dist/css/bootstrap.min.css'.
 import 'bootstrap/dist/css/bootstrap.min.css';
 import type { Metadata } from "next";
 import {EB_Garamond } from "next/font/google";
